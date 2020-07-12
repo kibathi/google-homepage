@@ -1,0 +1,1 @@
+git setup on mac and subsequent development using git.
